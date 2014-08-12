@@ -1,6 +1,6 @@
 Election
 ========
 
-Client-server application that accelerates the voting and counting of ballots written in Visual Basic.
+Client-server application that accelerates the voting and counting of ballots.
 
-(Made in 2009)
+(Written in Visual Basic. Made in 2009.)
